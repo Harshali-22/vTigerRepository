@@ -23,5 +23,9 @@ public class sample {
 			con.close();
 			System.out.println("===Executed===");
 		}
+		
+		System.out.println("Changes Done");
+		System.out.println("Changes Done2");
+		System.out.println("Changes Done3");
 	}
 }
