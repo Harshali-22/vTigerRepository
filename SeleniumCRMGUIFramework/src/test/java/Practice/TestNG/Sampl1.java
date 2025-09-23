@@ -11,6 +11,7 @@ public class Sampl1 {
 	
 	public void sampleaddone() {
 		System.out.println("Execute sample1");
+		System.out.println("Execute sample2");
 	}
 
 }
