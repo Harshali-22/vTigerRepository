@@ -10,5 +10,10 @@ public class Sampl1 {
 		System.out.println("Execute sampleadd 1");
 		System.out.println("Execute sampleadd 2");
 	}
+	
+	public void sampleaddone() {
+		System.out.println("Execute sample1");
+		System.out.println("Execute sample2");
+	}
 
 }
