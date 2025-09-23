@@ -8,5 +8,9 @@ public class Sampl1 {
 	public void sampleadd() {
 		System.out.println("Execute sampleadd");
 	}
+	
+	public void sampleaddone() {
+		System.out.println("Execute sample1");
+	}
 
 }
