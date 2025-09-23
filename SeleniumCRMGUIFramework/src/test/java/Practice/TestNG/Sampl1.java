@@ -7,6 +7,7 @@ public class Sampl1 {
 	@Test
 	public void sampleadd() {
 		System.out.println("Execute sampleadd");
+		System.out.println("Execute sampleadd 1");
 	}
 
 }
